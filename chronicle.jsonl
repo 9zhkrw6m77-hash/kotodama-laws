@@ -875,3 +875,5 @@
 {"season": 1, "day": 90, "hour": 3, "tick": 2163, "text": "grass caught fire from young tree", "event": true}
 {"season": 1, "day": 90, "hour": 6, "tick": 2166, "text": "grass burned to ash", "event": true}
 {"season": 1, "day": 90, "hour": 6, "tick": 2166, "text": "young tree burned to ash", "event": true}
+{"season": 1, "day": 91, "hour": 0, "tick": 2184, "text": "Day 91 of 420. 0 people, 43 things.", "event": false}
+{"season": 1, "day": 92, "hour": 0, "tick": 2208, "text": "Day 92 of 420. 0 people, 39 things.", "event": false}
